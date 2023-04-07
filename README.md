@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.github.com/HITAND/"><img src="https://img.shields.io/badge/-HITAND-grey?style=flat&amp;logo=github&amp;logoColor=white&amp;link=https://github.com/HITAND/" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-HITAND-grey?style=flat&amp;logo=github&amp;logoColor=white&amp;link=https://github.com/HITAND/" style="max-width: 100%;"></a>
 
-- 📝 I regularly write articles on [english language](english language)
+- 📝 I regularly write articles on english language
 
 - 💬 Ask me about **js, gsap, Webpack, React**
 
