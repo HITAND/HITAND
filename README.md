@@ -1,5 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Andrew</h1> -->
-<img src="https://camo.githubusercontent.com/908f3368e36ff7d32236685a1c2606789dcee582280455dba986a6469e0c870c/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3332266475726174696f6e3d323830302670617573653d3230303026636f6c6f723d4139464546372663656e7465723d74727565267643656e7465723d747275652677696474683d393430266c696e65733d4865792532432b49276d2b56696e63656e742b616e642b57656c636f6d652b746f2b6d792b50726f66696c6521" alt="Hey, I'm Vincent and Welcome to my Profile! animated typed out" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=32&amp;duration=2800&amp;pause=2000&amp;color=A9FEF7&amp;center=true&amp;vCenter=true&amp;width=940&amp;lines=Hey%2C+I'm+Vincent+and+Welcome+to+my+Profile!" style="color: #FFFFFF;background: #333333;text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 5px, #FF2D95 0px 0px 15px, #FF2D95 0px 0px 5px, #FF2D95 0px 0px 25px, #FF2D95 0px 0px 35px;" width="100%" align="middle">
+<h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
 - 🔭 I’m currently working on **Project about tea magazin**
