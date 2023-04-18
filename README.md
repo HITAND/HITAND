@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on english language
 
-- 💬 Ask me about **js, gsap, Webpack, React**
+- 💬 Ask me about **js, gsap, React**
 
 - 📫 How to reach me <a href="mailto:polishball.pl12@gmail.com"><img src="https://img.shields.io/badge/-polishball.pl12@gmail.com-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:polishball.pl12@gmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-polishball.pl12@gmail.com-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:polishball.pl12@gmail.com" style="max-width: 100%;"></a>
 
